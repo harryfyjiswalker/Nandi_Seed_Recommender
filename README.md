@@ -4,7 +4,7 @@
 
 ### Overview
 
-This repository contains the backend code and data for a SMS and website-based maize seed and fertiliser framework for Nandi County, Kenya, which integrates soil, weather, and climate-extreme data to (i) calculate land suitability scores at 30m resolution along with their associated uncertainties and (ii) provide seed variety, fertiliser, and fertiliser rate recommendations by combining the soil and metereological characteristics of each 30 x 30m area with information from seed and fertiliser trials previously conducted in the Rift Valley Upper region. Output recommendations are currently under field validation. More detail on the methodology can be found [here](). 
+This repository contains the backend code and data for a SMS and website-based maize seed and fertiliser framework for Nandi County, Kenya, which integrates soil, weather, and climate-extreme data to (i) calculate land suitability scores at 30m resolution along with their associated uncertainties and (ii) provide seed variety, fertiliser, and fertiliser rate recommendations by combining the soil and metereological characteristics of each 30 x 30m area with information from seed and fertiliser trials previously conducted in the Rift Valley Upper region. Output recommendations are currently under field validation. More detail on the methodology can be found [here](https://github.com/harryfyjiswalker/Nandi_Seed_Recommender/blob/main/Nandi_recommender_Write_up.pdf). 
 
 <p align="center">
   <img src="Images/NandiOutput2.png" alt="Alt text" width="800"/>
